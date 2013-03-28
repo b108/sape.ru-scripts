@@ -1,0 +1,6 @@
+{
+    login => 'YOUR_LOGIN_HERE',
+    password => 'YOUR_MD5_OF_PASSWORD_HERE',
+    is_md5_hash => 1,
+    max_SEO_WAIT_time => 3600 * 24 * 3 #максимальное время для ссылки со статусом WAIT_SEO (в секундах)
+}
