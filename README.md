@@ -10,3 +10,5 @@ sape.ru-scripts
 cp config.pl.sample config.pl
 
 Отредактируйте config.pl: введите свой логин, хеш пароля и задайте максимальное время ожидания для ссылок (по умолчанию - 3 суток).
+
+./sape_delete_old_SEO_WAIT_links.pl
